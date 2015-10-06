@@ -1,0 +1,1 @@
+Toto je testovaci textovy subor z tretej ulohy git-it.
